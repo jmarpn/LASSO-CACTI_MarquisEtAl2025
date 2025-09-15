@@ -12,7 +12,7 @@ For near-cloud sounding analyses:
 
 
 
-
+_____________________________________________________________
 Final analyses:
 
 1) LASSO_dBZcell_wID_mesoW_matchup_COMMONCORE_testbed100m_v13f.m: primary analysis script to concatinate sub-LFC mesoscale ascent objects, cloudy updraft objects, and near-cloud environmental data from all 7 cases.
@@ -22,3 +22,10 @@ Final analyses:
 3) momentum_profiles.m : Makes x-z cross section plots of u-w vectors, qv & qcloud plots.
 
 4) plot_terr_lassodomains.m: for making figure 1 - lasso domains. 
+
+
+_____________________________________________________________
+Data: 
+
+1) profs8_theory_ztop_L04R_v3.dat: cloud top height results from Morrison et al. 2022 equations.
+2) 
