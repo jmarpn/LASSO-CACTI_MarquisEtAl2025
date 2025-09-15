@@ -23,7 +23,9 @@ Final analyses:
 
 4) plot_terr_lassodomains.m: for making figure 1 - lasso domains.
 
-5) GOESvisualizer.m: used to make the obs & LASSSo cloud top maps relative to terrain and the sub-LFC ascent object figure.
+5) GOESvisualizer.m: used to make the obs & LASSO cloud top maps relative to terrain and the sub-LFC ascent object figure.
+
+6) wIDCorrelations_Jim2.ipynb: Used to generate multilinear regression Shapley analysis
 
 
 _____________________________________________________________
