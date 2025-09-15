@@ -21,7 +21,9 @@ Final analyses:
 
 3) momentum_profiles.m : Makes x-z cross section plots of u-w vectors, qv & qcloud plots.
 
-4) plot_terr_lassodomains.m: for making figure 1 - lasso domains. 
+4) plot_terr_lassodomains.m: for making figure 1 - lasso domains.
+
+5) GOESvisualizer.m: used to make the obs & LASSSo cloud top maps relative to terrain and the sub-LFC ascent object figure.
 
 
 _____________________________________________________________
