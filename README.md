@@ -1,7 +1,10 @@
 
+Subcloud ascent identification:
+1) subLFC_objects/*.m :  reads in LASSO output, identifies & tracks 3D sub-LFC ascent and convergence objects for each case
 
 
 
+______________________________________________________________
 For near-cloud sounding analyses:
 
 1) Hugh_env_profiles_oneprof_allsondes.m: generates sounding files for each updraft for passing into Morrison et al 2022's equations to predict cloud top height.
