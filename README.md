@@ -9,4 +9,6 @@ Final analyses:
 
 2) All_sims_z300m_D4_examples.m:  generates low-level convergence plots for each case.
 
+3) momentum_profiles.m : Makes x-z cross section plots of u-w vectors, qv & qcloud plots.
 
+4) 
