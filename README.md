@@ -6,7 +6,7 @@ For near-cloud sounding analyses:
 
 1) Hugh_env_profiles_oneprof_allsondes.m: generates sounding files for each updraft for passing into Morrison et al 2022's equations to predict cloud top height.
 
-2) 
+2) WID_andEnvparams_appendoutsB.m: concatinates cloudy updraft objects and associated near-cloud soundings for all cases. 
 
 
 
