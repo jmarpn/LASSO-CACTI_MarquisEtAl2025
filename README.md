@@ -2,6 +2,16 @@
 
 
 
+For near-cloud sounding analyses:
+
+1) Hugh_env_profiles_oneprof_allsondes.m: generates sounding files for each updraft for passing into Morrison et al 2022's equations to predict cloud top height.
+
+2) 
+
+
+
+
+
 
 Final analyses:
 
@@ -11,4 +21,4 @@ Final analyses:
 
 3) momentum_profiles.m : Makes x-z cross section plots of u-w vectors, qv & qcloud plots.
 
-4) 
+4) plot_terr_lassodomains.m: for making figure 1 - lasso domains. 
