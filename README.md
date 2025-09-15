@@ -1,6 +1,15 @@
 
-Subcloud ascent identification:
-1) subLFC_objects/*.m :  reads in LASSO output, identifies & tracks 3D sub-LFC ascent and convergence objects for each case
+Fundamental object analysis:
+
+1) subLFC_objects/*.m:  reads in LASSO output, identifies & tracks 3D sub-LFC ascent and convergence objects for each case
+
+2) WID/*:  Identifies 3D cloudy upiraft objects, thins out superfluous ones, in each case
+
+3) WID_soundinggrabbers/*:  Collects sounding profiles at 8 points surrounding each cloudy updraft in each case
+
+4) WID_lasso_moistLFC/*: processes the near-cloud soundings to calculate convective parameters (e.g., CAPE, CIN, LFC, LCL, shear, etc.) for each cloud in each case
+
+5) BoxMetrics/*: collects wind, qv, Rh, thermo, Froude number values along the eastern & western span of the SDC 
 
 
 
